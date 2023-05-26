@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}   
+    body{
+        text-align: center;
+    }
+  ol{
+    list-style-position: inside;
+    margin-inline-end: 0.6px
+  }
+    button{
+        background-color: blue;
+        color: beige;
+    
+        cursor: pointer;
+    
+    }
